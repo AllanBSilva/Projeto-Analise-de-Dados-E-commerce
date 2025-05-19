@@ -147,7 +147,7 @@ Essas visualizações oferecem insights essenciais sobre o comportamento de vend
 ## 💻 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/triggo_ai_trainee_project.git
+   git clone https://github.com/AllanBSilva/Projeto-Analise-de-Dados-E-commerce
     ```
 
 2. Crie um ambiente virtual:
